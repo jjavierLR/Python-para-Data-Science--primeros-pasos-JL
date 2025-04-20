@@ -5,3 +5,5 @@
 ## Capturando datos
 
 ## Estructuras Condicionales y Repetición
+
+## Estructura de Datos
