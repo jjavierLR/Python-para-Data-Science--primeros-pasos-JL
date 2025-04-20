@@ -3,3 +3,5 @@
 ## Practica de Variables y Tipos
 
 ## Capturando datos
+
+## Estructuras Condicionales y Repetición
