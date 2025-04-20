@@ -7,3 +7,5 @@
 ## Estructuras Condicionales y Repetición
 
 ## Estructura de Datos
+
+## Listas y Diccionarios
